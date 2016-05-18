@@ -3,4 +3,4 @@
 @media only screen and (min-width:1024px){.placeholder-owl{position:absolute;top:0;right:0;z-index:-1}}
 .placeholder-owl img {height:auto;width:100%;}@media only screen and (min-width:1024px){.placeholder-owl img{display:block;height:100vh;width:auto;}}
 
-.stencil{font-family:'Tele2 DisplayStencil';font-size:1.4em;font-weight:400;line-height:1.1;margin-top:0;margin-bottom:20px}@media only screen and (min-width:520px){.stencil{font-size:1.6em}}@media only screen and (min-width:768px){.stencil{font-size:2em}}@media only screen and (min-width:1024px){.stencil{font-size:2.2em}}@media only screen and (min-width:1100px){.stencil{font-size:2.4em}}
+.stencil{color:white;font-family:'Tele2 DisplayStencil';font-size:1.4em;font-weight:400;line-height:1.1;margin-top:0;margin-bottom:20px}@media only screen and (min-width:520px){.stencil{font-size:1.6em}}@media only screen and (min-width:768px){.stencil{font-size:2em}}@media only screen and (min-width:1024px){.stencil{font-size:2.2em}}@media only screen and (min-width:1100px){.stencil{font-size:2.4em}}
